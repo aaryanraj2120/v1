@@ -2,6 +2,12 @@
 
 A modern food delivery platform with a beautiful UI and interactive features.
 
+## Team Members
+1. V Jashwanth
+2. Aryan Raj
+3. Divyanshu Raj
+4. T Krishan Teja
+
 ## Features
 
 - Delivery and pickup options
